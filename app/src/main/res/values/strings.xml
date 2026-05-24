@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vigilante de Mesa</string>
+    <string name="btn_activar">ACTIVAR VIGILANTE</string>
+    <string name="btn_detener">DETENER</string>
+    <string name="label_distancia">Distancia: %d cm</string>
+    <string name="label_sensibilidad">Umbral: %d cm</string>
+    <string name="label_frecuencia">Frecuencia ultrasónica</string>
+    <string name="label_alarma_activa">¡ALARMA!</string>
+    <string name="alarma_intro">Objeto demasiado cerca</string>
+    <string name="opcion_18kHz">18 kHz</string>
+    <string name="opcion_20kHz">20 kHz</string>
+    <string name="opcion_22kHz">22 kHz</string>
+    <string name="check_pitido">Pitido</string>
+    <string name="check_vibracion">Vibración</string>
+    <string name="check_notificacion">Notificación</string>
+    <string name="service_channel_name">Servicio Vigilante</string>
+    <string name="service_channel_desc">Notificación del servicio de vigilancia ultrasónica</string>
+    <string name="service_notification_text">Vigilante activo — Distancia: %d cm</string>
+    <string name="alarm_channel_name">Alarma Vigilante</string>
+    <string name="alarm_channel_desc">Alertas de proximidad del vigilante</string>
+    <string name="alarm_notification_text">¡Objeto detectado a %d cm!</string>
+    <string name="permiso_audio_denegado">Permiso de micrófono denegado</string>
+    <string name="permiso_notificacion_denegado">Permiso de notificaciones denegado</string>
+    <string name="servicio_ejecutando">Vigilante activo</string>
+    <string name="codigo_incorrecto">Código incorrecto</string>
+    <string name="password_title">Cambiar código de desbloqueo</string>
+    <string name="password_label">Nuevo código (4 dígitos)</string>
+    <string name="password_guardar">Guardar</string>
+    <string name="password_cancelar">Cancelar</string>
+    <string name="password_actual">Código actual: %s</string>
+    <string name="confirmar_detener">¿Detener vigilante?</string>
+    <string name="confirmar_detener_msg">Se perderá la vigilancia en curso.</string>
+</resources>

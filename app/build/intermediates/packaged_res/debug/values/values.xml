@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="active_green">#4CAF50</color>
+    <color name="alarm_red">#D32F2F</color>
+    <color name="alarm_red_dark">#B71C1C</color>
+    <color name="background">#F5F5F5</color>
+    <color name="distance_bar">#42A5F5</color>
+    <color name="inactive_gray">#BDBDBD</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary">#1565C0</color>
+    <color name="primary_variant">#0D47A1</color>
+    <color name="secondary">#FF6F00</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <string name="alarm_channel_desc">Alertas de proximidad del vigilante</string>
+    <string name="alarm_channel_name">Alarma Vigilante</string>
+    <string name="alarm_notification_text">¡Objeto detectado a %d cm!</string>
+    <string name="alarma_intro">Objeto demasiado cerca</string>
+    <string name="app_name">Vigilante de Mesa</string>
+    <string name="btn_activar">ACTIVAR VIGILANTE</string>
+    <string name="btn_detener">DETENER</string>
+    <string name="check_notificacion">Notificación</string>
+    <string name="check_pitido">Pitido</string>
+    <string name="check_vibracion">Vibración</string>
+    <string name="codigo_incorrecto">Código incorrecto</string>
+    <string name="confirmar_detener">¿Detener vigilante?</string>
+    <string name="confirmar_detener_msg">Se perderá la vigilancia en curso.</string>
+    <string name="label_alarma_activa">¡ALARMA!</string>
+    <string name="label_distancia">Distancia: %d cm</string>
+    <string name="label_frecuencia">Frecuencia ultrasónica</string>
+    <string name="label_sensibilidad">Umbral: %d cm</string>
+    <string name="opcion_18kHz">18 kHz</string>
+    <string name="opcion_20kHz">20 kHz</string>
+    <string name="opcion_22kHz">22 kHz</string>
+    <string name="password_actual">Código actual: %s</string>
+    <string name="password_cancelar">Cancelar</string>
+    <string name="password_guardar">Guardar</string>
+    <string name="password_label">Nuevo código (4 dígitos)</string>
+    <string name="password_title">Cambiar código de desbloqueo</string>
+    <string name="permiso_audio_denegado">Permiso de micrófono denegado</string>
+    <string name="permiso_notificacion_denegado">Permiso de notificaciones denegado</string>
+    <string name="service_channel_desc">Notificación del servicio de vigilancia ultrasónica</string>
+    <string name="service_channel_name">Servicio Vigilante</string>
+    <string name="service_notification_text">Vigilante activo — Distancia: %d cm</string>
+    <string name="servicio_ejecutando">Vigilante activo</string>
+    <style name="KeypadButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">64dp</item>
+        <item name="android:layout_height">64dp</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:backgroundTint">@color/on_primary</item>
+        <item name="android:textColor">@color/alarm_red_dark</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+    <style name="Theme.AlarmaUltrasonica" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary</item>
+        <item name="colorOnSecondary">@color/on_primary</item>
+        <item name="android:statusBarColor">@color/primary</item>
+    </style>
+</resources>

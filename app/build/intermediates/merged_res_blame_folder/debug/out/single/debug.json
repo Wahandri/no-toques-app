@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/wahandri/.gradle/daemon/8.2/com.ultrasonica.alarma.app-merged_res-31:/drawable_progress_bar_gradient.xml.flat",
+        "source": "/home/wahandri/.gradle/daemon/8.2/com.ultrasonica.alarma.app-main-33:/drawable/progress_bar_gradient.xml"
+    },
+    {
+        "merged": "com.ultrasonica.alarma.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.ultrasonica.alarma.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/wahandri/.gradle/daemon/8.2/com.ultrasonica.alarma.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "/home/wahandri/.gradle/daemon/8.2/com.ultrasonica.alarma.app-main-33:/layout/activity_main.xml"
+    }
+]

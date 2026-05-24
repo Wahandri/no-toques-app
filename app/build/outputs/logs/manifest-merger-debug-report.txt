@@ -1,0 +1,327 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [androidx.databinding:viewbinding:8.2.0] /home/wahandri/.gradle/caches/transforms-3/205a3a6217252f9e1b892b0cfad964eb/transformed/viewbinding-8.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] /home/wahandri/.gradle/caches/transforms-3/8671a9630d4200d3797937c9ab4e6d8e/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/wahandri/.gradle/caches/transforms-3/1f1be379472c0555b09d25f1dc0d26d2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/wahandri/.gradle/caches/transforms-3/ccc8b81438b384f7a0963e90331b3ee3/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/wahandri/.gradle/caches/transforms-3/35dc4332ca8554128db086dff305c449/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/wahandri/.gradle/caches/transforms-3/996b3a03c2c041344a8edbe1ba9130f0/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/wahandri/.gradle/caches/transforms-3/409f3cd6d7d821fc13cd8312aeda2915/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/wahandri/.gradle/caches/transforms-3/6a42b1c39df266e4b7e391f59eee0b23/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/wahandri/.gradle/caches/transforms-3/fffe415228d5aa391b0e1eb5ade8df6f/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /home/wahandri/.gradle/caches/transforms-3/8c402592bd77794185ec983b49c86ddb/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/wahandri/.gradle/caches/transforms-3/8e58ded95555d35d64bbed289b6bd1eb/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/wahandri/.gradle/caches/transforms-3/012a219e17fa668755770b51bb17a6a0/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/wahandri/.gradle/caches/transforms-3/647748b61fbf5fa0753257afc65370a3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/wahandri/.gradle/caches/transforms-3/55255630ed2361bb8a39f04db53952ac/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/wahandri/.gradle/caches/transforms-3/33e14dcb7abd4228218f6c3d57eed9c5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/wahandri/.gradle/caches/transforms-3/2c6eeb61f58a7dcc0491d9e2231aee85/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/wahandri/.gradle/caches/transforms-3/d85a7c101a252a0291f238fe58cab39b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/wahandri/.gradle/caches/transforms-3/b6908ce9bd196ceee75027919c9120fe/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/wahandri/.gradle/caches/transforms-3/89482eff47b3b47a7751341bdd02d556/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/wahandri/.gradle/caches/transforms-3/52228fef917a08aeb8bfe9f9b691bfe8/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/wahandri/.gradle/caches/transforms-3/41e0c362cff938b0b51bb6fdb1032e9c/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] /home/wahandri/.gradle/caches/transforms-3/3ccec4920874f35a2a383adbe4f52111/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/wahandri/.gradle/caches/transforms-3/2e70db6ce8b14d901d60f833ae97fb5a/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/wahandri/.gradle/caches/transforms-3/30c6f5c155aca8c39f11f5c852a99c71/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/wahandri/.gradle/caches/transforms-3/330d4a6d8a33efd6c67e181234fd66f2/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/wahandri/.gradle/caches/transforms-3/296494eb4d6f95c1f6370b8380f550ff/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/wahandri/.gradle/caches/transforms-3/00aece5684c3b51bbed06960c96622e8/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/wahandri/.gradle/caches/transforms-3/1a85de61ac57074ed9289ab424b29785/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/wahandri/.gradle/caches/transforms-3/3083054fb9d0348f989aafe1808418d7/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] /home/wahandri/.gradle/caches/transforms-3/81bed90aa4446ad7d2e7ca86ee35fad3/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/wahandri/.gradle/caches/transforms-3/c403bb744b8d8c04e83b2f02a279211d/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/wahandri/.gradle/caches/transforms-3/1562d15f38bff96f29b7e1244429a339/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/wahandri/.gradle/caches/transforms-3/d0d10200e4df66f19217104cc8121819/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/wahandri/.gradle/caches/transforms-3/9c2896e4543d7dc1e7d6ed2cde52dd29/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/wahandri/.gradle/caches/transforms-3/6fb51bd982ca21c2896bcaf298c51144/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/wahandri/.gradle/caches/transforms-3/92b198b8c9bc1933b3ac4e77ee47e6c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/wahandri/.gradle/caches/transforms-3/13ba72f107edd4b8db6c6df64dbcb634/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/wahandri/.gradle/caches/transforms-3/825bb2816a1682c53879b7d027c13a86/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/wahandri/.gradle/caches/transforms-3/470906c7047a4cb128b7fcd0fb0a00ed/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/wahandri/.gradle/caches/transforms-3/9c8707425a2a06be0adf2618f769fbcc/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/wahandri/.gradle/caches/transforms-3/754282c45f7631693d1020a0cbf32dc9/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:7:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_MICROPHONE
+ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:8:5-88
+	android:name
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:8:22-85
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:9:22-74
+uses-permission#android.permission.VIBRATE
+ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:10:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:13:22-78
+application
+ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:15:5-39:19
+INJECTED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:15:5-39:19
+MERGED from [com.google.android.material:material:1.11.0] /home/wahandri/.gradle/caches/transforms-3/8671a9630d4200d3797937c9ab4e6d8e/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] /home/wahandri/.gradle/caches/transforms-3/8671a9630d4200d3797937c9ab4e6d8e/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/wahandri/.gradle/caches/transforms-3/1f1be379472c0555b09d25f1dc0d26d2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/wahandri/.gradle/caches/transforms-3/1f1be379472c0555b09d25f1dc0d26d2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/wahandri/.gradle/caches/transforms-3/409f3cd6d7d821fc13cd8312aeda2915/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/wahandri/.gradle/caches/transforms-3/409f3cd6d7d821fc13cd8312aeda2915/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /home/wahandri/.gradle/caches/transforms-3/3ccec4920874f35a2a383adbe4f52111/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /home/wahandri/.gradle/caches/transforms-3/3ccec4920874f35a2a383adbe4f52111/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/wahandri/.gradle/caches/transforms-3/30c6f5c155aca8c39f11f5c852a99c71/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/wahandri/.gradle/caches/transforms-3/30c6f5c155aca8c39f11f5c852a99c71/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/wahandri/.gradle/caches/transforms-3/6fb51bd982ca21c2896bcaf298c51144/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/wahandri/.gradle/caches/transforms-3/6fb51bd982ca21c2896bcaf298c51144/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/wahandri/.gradle/caches/transforms-3/92b198b8c9bc1933b3ac4e77ee47e6c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/wahandri/.gradle/caches/transforms-3/92b198b8c9bc1933b3ac4e77ee47e6c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /home/wahandri/.gradle/caches/transforms-3/3ccec4920874f35a2a383adbe4f52111/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:17:9-41
+	tools:targetApi
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:20:9-29
+	android:allowBackup
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:19:9-55
+activity#com.ultrasonica.alarma.MainActivity
+ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:22:9-32:20
+	android:turnScreenOn
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:26:13-40
+	android:showWhenLocked
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:25:13-42
+	android:exported
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:24:13-36
+	android:showOnLockScreen
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:23:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:30:27-74
+service#com.ultrasonica.alarma.SonarService
+ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:35:9-38:40
+	android:exported
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:38:13-37
+	android:foregroundServiceType
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:37:13-55
+	android:name
+		ADDED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml:36:13-41
+uses-sdk
+INJECTED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml
+INJECTED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.2.0] /home/wahandri/.gradle/caches/transforms-3/205a3a6217252f9e1b892b0cfad964eb/transformed/viewbinding-8.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.0] /home/wahandri/.gradle/caches/transforms-3/205a3a6217252f9e1b892b0cfad964eb/transformed/viewbinding-8.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] /home/wahandri/.gradle/caches/transforms-3/8671a9630d4200d3797937c9ab4e6d8e/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] /home/wahandri/.gradle/caches/transforms-3/8671a9630d4200d3797937c9ab4e6d8e/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/wahandri/.gradle/caches/transforms-3/1f1be379472c0555b09d25f1dc0d26d2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/wahandri/.gradle/caches/transforms-3/1f1be379472c0555b09d25f1dc0d26d2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/wahandri/.gradle/caches/transforms-3/ccc8b81438b384f7a0963e90331b3ee3/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/wahandri/.gradle/caches/transforms-3/ccc8b81438b384f7a0963e90331b3ee3/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/wahandri/.gradle/caches/transforms-3/35dc4332ca8554128db086dff305c449/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/wahandri/.gradle/caches/transforms-3/35dc4332ca8554128db086dff305c449/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/wahandri/.gradle/caches/transforms-3/996b3a03c2c041344a8edbe1ba9130f0/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/wahandri/.gradle/caches/transforms-3/996b3a03c2c041344a8edbe1ba9130f0/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/wahandri/.gradle/caches/transforms-3/409f3cd6d7d821fc13cd8312aeda2915/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/wahandri/.gradle/caches/transforms-3/409f3cd6d7d821fc13cd8312aeda2915/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/wahandri/.gradle/caches/transforms-3/6a42b1c39df266e4b7e391f59eee0b23/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/wahandri/.gradle/caches/transforms-3/6a42b1c39df266e4b7e391f59eee0b23/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/wahandri/.gradle/caches/transforms-3/fffe415228d5aa391b0e1eb5ade8df6f/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/wahandri/.gradle/caches/transforms-3/fffe415228d5aa391b0e1eb5ade8df6f/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /home/wahandri/.gradle/caches/transforms-3/8c402592bd77794185ec983b49c86ddb/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/wahandri/.gradle/caches/transforms-3/8c402592bd77794185ec983b49c86ddb/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/wahandri/.gradle/caches/transforms-3/8e58ded95555d35d64bbed289b6bd1eb/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/wahandri/.gradle/caches/transforms-3/8e58ded95555d35d64bbed289b6bd1eb/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/wahandri/.gradle/caches/transforms-3/012a219e17fa668755770b51bb17a6a0/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/wahandri/.gradle/caches/transforms-3/012a219e17fa668755770b51bb17a6a0/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/wahandri/.gradle/caches/transforms-3/647748b61fbf5fa0753257afc65370a3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/wahandri/.gradle/caches/transforms-3/647748b61fbf5fa0753257afc65370a3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/wahandri/.gradle/caches/transforms-3/55255630ed2361bb8a39f04db53952ac/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/wahandri/.gradle/caches/transforms-3/55255630ed2361bb8a39f04db53952ac/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/wahandri/.gradle/caches/transforms-3/33e14dcb7abd4228218f6c3d57eed9c5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/wahandri/.gradle/caches/transforms-3/33e14dcb7abd4228218f6c3d57eed9c5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/wahandri/.gradle/caches/transforms-3/2c6eeb61f58a7dcc0491d9e2231aee85/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/wahandri/.gradle/caches/transforms-3/2c6eeb61f58a7dcc0491d9e2231aee85/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/wahandri/.gradle/caches/transforms-3/d85a7c101a252a0291f238fe58cab39b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/wahandri/.gradle/caches/transforms-3/d85a7c101a252a0291f238fe58cab39b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/wahandri/.gradle/caches/transforms-3/b6908ce9bd196ceee75027919c9120fe/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/wahandri/.gradle/caches/transforms-3/b6908ce9bd196ceee75027919c9120fe/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/wahandri/.gradle/caches/transforms-3/89482eff47b3b47a7751341bdd02d556/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/wahandri/.gradle/caches/transforms-3/89482eff47b3b47a7751341bdd02d556/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/wahandri/.gradle/caches/transforms-3/52228fef917a08aeb8bfe9f9b691bfe8/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/wahandri/.gradle/caches/transforms-3/52228fef917a08aeb8bfe9f9b691bfe8/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/wahandri/.gradle/caches/transforms-3/41e0c362cff938b0b51bb6fdb1032e9c/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/wahandri/.gradle/caches/transforms-3/41e0c362cff938b0b51bb6fdb1032e9c/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] /home/wahandri/.gradle/caches/transforms-3/3ccec4920874f35a2a383adbe4f52111/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /home/wahandri/.gradle/caches/transforms-3/3ccec4920874f35a2a383adbe4f52111/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/wahandri/.gradle/caches/transforms-3/2e70db6ce8b14d901d60f833ae97fb5a/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/wahandri/.gradle/caches/transforms-3/2e70db6ce8b14d901d60f833ae97fb5a/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/wahandri/.gradle/caches/transforms-3/30c6f5c155aca8c39f11f5c852a99c71/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/wahandri/.gradle/caches/transforms-3/30c6f5c155aca8c39f11f5c852a99c71/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/wahandri/.gradle/caches/transforms-3/330d4a6d8a33efd6c67e181234fd66f2/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/wahandri/.gradle/caches/transforms-3/330d4a6d8a33efd6c67e181234fd66f2/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/wahandri/.gradle/caches/transforms-3/296494eb4d6f95c1f6370b8380f550ff/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/wahandri/.gradle/caches/transforms-3/296494eb4d6f95c1f6370b8380f550ff/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/wahandri/.gradle/caches/transforms-3/00aece5684c3b51bbed06960c96622e8/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/wahandri/.gradle/caches/transforms-3/00aece5684c3b51bbed06960c96622e8/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/wahandri/.gradle/caches/transforms-3/1a85de61ac57074ed9289ab424b29785/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/wahandri/.gradle/caches/transforms-3/1a85de61ac57074ed9289ab424b29785/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/wahandri/.gradle/caches/transforms-3/3083054fb9d0348f989aafe1808418d7/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/wahandri/.gradle/caches/transforms-3/3083054fb9d0348f989aafe1808418d7/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /home/wahandri/.gradle/caches/transforms-3/81bed90aa4446ad7d2e7ca86ee35fad3/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /home/wahandri/.gradle/caches/transforms-3/81bed90aa4446ad7d2e7ca86ee35fad3/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/wahandri/.gradle/caches/transforms-3/c403bb744b8d8c04e83b2f02a279211d/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/wahandri/.gradle/caches/transforms-3/c403bb744b8d8c04e83b2f02a279211d/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/wahandri/.gradle/caches/transforms-3/1562d15f38bff96f29b7e1244429a339/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/wahandri/.gradle/caches/transforms-3/1562d15f38bff96f29b7e1244429a339/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/wahandri/.gradle/caches/transforms-3/d0d10200e4df66f19217104cc8121819/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/wahandri/.gradle/caches/transforms-3/d0d10200e4df66f19217104cc8121819/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/wahandri/.gradle/caches/transforms-3/9c2896e4543d7dc1e7d6ed2cde52dd29/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/wahandri/.gradle/caches/transforms-3/9c2896e4543d7dc1e7d6ed2cde52dd29/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/wahandri/.gradle/caches/transforms-3/6fb51bd982ca21c2896bcaf298c51144/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/wahandri/.gradle/caches/transforms-3/6fb51bd982ca21c2896bcaf298c51144/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/wahandri/.gradle/caches/transforms-3/92b198b8c9bc1933b3ac4e77ee47e6c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/wahandri/.gradle/caches/transforms-3/92b198b8c9bc1933b3ac4e77ee47e6c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/wahandri/.gradle/caches/transforms-3/13ba72f107edd4b8db6c6df64dbcb634/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/wahandri/.gradle/caches/transforms-3/13ba72f107edd4b8db6c6df64dbcb634/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/wahandri/.gradle/caches/transforms-3/825bb2816a1682c53879b7d027c13a86/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/wahandri/.gradle/caches/transforms-3/825bb2816a1682c53879b7d027c13a86/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/wahandri/.gradle/caches/transforms-3/470906c7047a4cb128b7fcd0fb0a00ed/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/wahandri/.gradle/caches/transforms-3/470906c7047a4cb128b7fcd0fb0a00ed/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/wahandri/.gradle/caches/transforms-3/9c8707425a2a06be0adf2618f769fbcc/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/wahandri/.gradle/caches/transforms-3/9c8707425a2a06be0adf2618f769fbcc/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/wahandri/.gradle/caches/transforms-3/754282c45f7631693d1020a0cbf32dc9/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/wahandri/.gradle/caches/transforms-3/754282c45f7631693d1020a0cbf32dc9/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/wahandri/Documentos/AlarmaUltrasonica/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/wahandri/.gradle/caches/transforms-3/409f3cd6d7d821fc13cd8312aeda2915/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/wahandri/.gradle/caches/transforms-3/30c6f5c155aca8c39f11f5c852a99c71/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/wahandri/.gradle/caches/transforms-3/30c6f5c155aca8c39f11f5c852a99c71/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/wahandri/.gradle/caches/transforms-3/92b198b8c9bc1933b3ac4e77ee47e6c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/wahandri/.gradle/caches/transforms-3/92b198b8c9bc1933b3ac4e77ee47e6c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/wahandri/.gradle/caches/transforms-3/409f3cd6d7d821fc13cd8312aeda2915/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/wahandri/.gradle/caches/transforms-3/409f3cd6d7d821fc13cd8312aeda2915/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/wahandri/.gradle/caches/transforms-3/409f3cd6d7d821fc13cd8312aeda2915/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/wahandri/.gradle/caches/transforms-3/409f3cd6d7d821fc13cd8312aeda2915/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/wahandri/.gradle/caches/transforms-3/409f3cd6d7d821fc13cd8312aeda2915/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/wahandri/.gradle/caches/transforms-3/409f3cd6d7d821fc13cd8312aeda2915/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/wahandri/.gradle/caches/transforms-3/409f3cd6d7d821fc13cd8312aeda2915/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/wahandri/.gradle/caches/transforms-3/3ccec4920874f35a2a383adbe4f52111/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/wahandri/.gradle/caches/transforms-3/3ccec4920874f35a2a383adbe4f52111/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/wahandri/.gradle/caches/transforms-3/3ccec4920874f35a2a383adbe4f52111/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.ultrasonica.alarma.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/wahandri/.gradle/caches/transforms-3/3ccec4920874f35a2a383adbe4f52111/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/wahandri/.gradle/caches/transforms-3/3ccec4920874f35a2a383adbe4f52111/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/wahandri/.gradle/caches/transforms-3/3ccec4920874f35a2a383adbe4f52111/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/wahandri/.gradle/caches/transforms-3/3ccec4920874f35a2a383adbe4f52111/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/wahandri/.gradle/caches/transforms-3/3ccec4920874f35a2a383adbe4f52111/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.ultrasonica.alarma.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/wahandri/.gradle/caches/transforms-3/3ccec4920874f35a2a383adbe4f52111/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/wahandri/.gradle/caches/transforms-3/3ccec4920874f35a2a383adbe4f52111/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/wahandri/.gradle/caches/transforms-3/30c6f5c155aca8c39f11f5c852a99c71/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/wahandri/.gradle/caches/transforms-3/30c6f5c155aca8c39f11f5c852a99c71/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/wahandri/.gradle/caches/transforms-3/30c6f5c155aca8c39f11f5c852a99c71/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wahandri/.gradle/caches/transforms-3/07f83fbbcb2b5c1976d710232224c9b1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

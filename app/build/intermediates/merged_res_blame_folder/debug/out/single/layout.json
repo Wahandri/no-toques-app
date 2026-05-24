@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/wahandri/.gradle/daemon/8.2/com.ultrasonica.alarma.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "/home/wahandri/.gradle/daemon/8.2/com.ultrasonica.alarma.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ultrasonica.alarma.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.ultrasonica.alarma.app-main-33:/layout/activity_main.xml"
+    }
+]
